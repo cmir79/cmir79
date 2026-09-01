@@ -12,9 +12,9 @@
 ## 🏭 하는 일
 
 - **머신 비전 검사** — Cognex VisionPro · OpenCV 기반 검사 시스템 (주력)
-- **설비 제어 HMI** — WPF · Avalonia 기반 데스크톱 애플리케이션 설계/개발
+- **설비 제어 HMI** — WPF · Avalonia 데스크톱 애플리케이션 설계/개발 (MVVM)
 - **PLC 통신** — Mitsubishi MC 프로토콜, Modbus/TCP 실시간 폴링
-- **레거시 이관** — WinForms · VB.NET(.NET Framework) 설비 프로그램을 WPF로 포팅/개선
+- **레거시 전환** — WinForms · VB.NET(.NET Framework) 설비 프로그램 다수를 WPF로 전환
 - **설비 시뮬레이션** — Unity 기반 장비 시뮬레이터
 
 ## 🛠 기술 스택
