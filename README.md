@@ -14,14 +14,14 @@
 - **머신 비전 검사** — Cognex VisionPro · OpenCV 기반 검사 시스템 (주력)
 - **설비 제어 HMI** — WPF · Avalonia 기반 데스크톱 애플리케이션 설계/개발
 - **PLC 통신** — Mitsubishi MC 프로토콜, Modbus/TCP 실시간 폴링
-- **레거시 유지보수** — .NET Framework · VB.NET 설비 프로그램 개선/이관
+- **레거시 이관** — WinForms · VB.NET(.NET Framework) 설비 프로그램을 WPF로 포팅/개선
 - **설비 시뮬레이션** — Unity 기반 장비 시뮬레이터
 
 ## 🛠 기술 스택
 
 **Languages & Frameworks**
 
-<img src="https://img.shields.io/badge/C%23-239120?style=for-the-badge" alt="C#"/> <img src="https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white" alt=".NET"/> <img src="https://img.shields.io/badge/VB.NET-945DB7?style=for-the-badge" alt="VB.NET"/> <img src="https://img.shields.io/badge/WPF-68217A?style=for-the-badge" alt="WPF"/> <img src="https://img.shields.io/badge/Avalonia-8B44AC?style=for-the-badge" alt="Avalonia"/> <img src="https://img.shields.io/badge/Unity-000000?style=for-the-badge&logo=unity&logoColor=white" alt="Unity"/> <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python"/>
+<img src="https://img.shields.io/badge/C%23-239120?style=for-the-badge" alt="C#"/> <img src="https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white" alt=".NET"/> <img src="https://img.shields.io/badge/VB.NET-945DB7?style=for-the-badge" alt="VB.NET"/> <img src="https://img.shields.io/badge/WPF-68217A?style=for-the-badge" alt="WPF"/> <img src="https://img.shields.io/badge/WinForms-0078D4?style=for-the-badge" alt="WinForms"/> <img src="https://img.shields.io/badge/Avalonia-8B44AC?style=for-the-badge" alt="Avalonia"/> <img src="https://img.shields.io/badge/Unity-000000?style=for-the-badge&logo=unity&logoColor=white" alt="Unity"/> <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python"/>
 
 **Vision & Industrial**
 
