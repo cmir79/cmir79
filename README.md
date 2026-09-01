@@ -31,7 +31,7 @@
 
 <img src="https://img.shields.io/badge/Visual%20Studio-5C2D91?style=for-the-badge" alt="Visual Studio"/> <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git"/>
 
-## 🌱 배우는 중
+## 🌱 요즘 파고드는 것
 
 - **AI · 딥러닝** — 머신 비전 검사에 접목하는 것이 목표
 
