@@ -1,6 +1,6 @@
 <div align="center">
 
-![header](https://capsule-render.vercel.app/api?type=waving&color=0:1a2980,100:26d0ce&height=220&section=header&text=KINTAEIN&fontSize=62&fontColor=ffffff&animation=fadeIn&desc=Machine%20Vision%20%C2%B7%20Industrial%20Automation%20%C2%B7%20.NET&descSize=20&descAlignY=76)
+![header](https://capsule-render.vercel.app/api?type=waving&color=0:11998e,100:38ef7d&height=220&section=header&text=KINTAEIN&fontSize=62&fontColor=ffffff&animation=fadeIn&desc=Machine%20Vision%20%C2%B7%20Industrial%20Automation%20%C2%B7%20.NET&descSize=20&descAlignY=76)
 
 ### 산업 현장의 눈이 되는 소프트웨어를 만듭니다 👋
 
@@ -34,4 +34,4 @@
 
 [![Gmail](https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:cmir79ss@gmail.com)
 
-![footer](https://capsule-render.vercel.app/api?type=waving&color=0:1a2980,100:26d0ce&height=100&section=footer)
+![footer](https://capsule-render.vercel.app/api?type=waving&color=0:11998e,100:38ef7d&height=100&section=footer)
