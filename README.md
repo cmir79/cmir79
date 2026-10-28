@@ -38,9 +38,10 @@
 ## 📦 오픈소스
 
 **[CvInspect](https://github.com/cmir79/CvInspect)** — OpenCvSharp 기반 머신 비전 검사 툴킷<br/>
-캘리퍼 · 라인/서클/패턴/블롭 파인더 · 컬러 세그먼트 · 기하 피팅 · 렌더러 중립 오버레이. 코어 · WPF 표시·티칭 컨트롤 · 카메라 취득 계약 · GigE 백엔드로 네 패키지<br/>
-[![CvInspect](https://img.shields.io/nuget/v/CvInspect?style=flat-square&logo=nuget&logoColor=white&label=CvInspect&color=004880)](https://www.nuget.org/packages/CvInspect) [![CvInspect.Wpf](https://img.shields.io/nuget/v/CvInspect.Wpf?style=flat-square&logo=nuget&logoColor=white&label=CvInspect.Wpf&color=004880)](https://www.nuget.org/packages/CvInspect.Wpf) [![CvInspect.Imaging](https://img.shields.io/nuget/v/CvInspect.Imaging?style=flat-square&logo=nuget&logoColor=white&label=CvInspect.Imaging&color=004880)](https://www.nuget.org/packages/CvInspect.Imaging) [![CvInspect.Imaging.Gev](https://img.shields.io/nuget/v/CvInspect.Imaging.Gev?style=flat-square&logo=nuget&logoColor=white&label=CvInspect.Imaging.Gev&color=004880)](https://www.nuget.org/packages/CvInspect.Imaging.Gev)<br/>
-`netstandard2.1` `net8.0` `Apache-2.0`
+캘리퍼 · 라인/서클/패턴/블롭 파인더 · 컬러 세그먼트 · 기하 피팅 · 렌더러 중립 오버레이. 코어 · 카메라 취득 계약 · GigE 백엔드 · 표시·티칭 컨트롤(WPF · Avalonia)로 다섯 패키지<br/>
+두 UI 패키지는 같은 이름·같은 동작의 컨트롤을 내고, UI 와 무관한 로직은 코어 한 곳에서 나눠 씁니다 — Avalonia 판은 Windows·Linux 대상(Linux 는 CI 헤드리스 검증)<br/>
+[![CvInspect](https://img.shields.io/nuget/v/CvInspect?style=flat-square&logo=nuget&logoColor=white&label=CvInspect&color=004880)](https://www.nuget.org/packages/CvInspect) [![CvInspect.Wpf](https://img.shields.io/nuget/v/CvInspect.Wpf?style=flat-square&logo=nuget&logoColor=white&label=CvInspect.Wpf&color=004880)](https://www.nuget.org/packages/CvInspect.Wpf) [![CvInspect.Avalonia](https://img.shields.io/nuget/v/CvInspect.Avalonia?style=flat-square&logo=nuget&logoColor=white&label=CvInspect.Avalonia&color=004880)](https://www.nuget.org/packages/CvInspect.Avalonia) [![CvInspect.Imaging](https://img.shields.io/nuget/v/CvInspect.Imaging?style=flat-square&logo=nuget&logoColor=white&label=CvInspect.Imaging&color=004880)](https://www.nuget.org/packages/CvInspect.Imaging) [![CvInspect.Imaging.Gev](https://img.shields.io/nuget/v/CvInspect.Imaging.Gev?style=flat-square&logo=nuget&logoColor=white&label=CvInspect.Imaging.Gev&color=004880)](https://www.nuget.org/packages/CvInspect.Imaging.Gev)<br/>
+`netstandard2.1` `net8.0` `Windows` `Linux` `Apache-2.0`
 
 **[GevSharp](https://github.com/cmir79/GevSharp)** — 벤더프리 GigE 카메라 취득 라이브러리 [![GevSharp](https://img.shields.io/nuget/v/GevSharp?style=flat-square&logo=nuget&logoColor=white&label=GevSharp&color=004880)](https://www.nuget.org/packages/GevSharp)<br/>
 벤더 SDK·네이티브 의존 없이 순수 관리 C#으로 GVCP 장치 제어 · GVSP 스트리밍(패킷 리센드) · GenICam XML 피처 제어<br/>
